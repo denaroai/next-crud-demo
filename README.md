@@ -55,7 +55,7 @@ Retrieves all customers for the authenticated user.
 
 **Headers:**
 ```
-INTERVIEW_KEY: superSecretToken-<your-name>
+interview-api-key: superSecretToken-<your-name>
 ```
 
 **Response:**
@@ -79,7 +79,7 @@ Creates a new customer.
 
 **Headers:**
 ```
-INTERVIEW_KEY: superSecretToken-<your-name>
+interview-api-key: superSecretToken-<your-name>
 ```
 
 **Request Body:**
@@ -152,7 +152,7 @@ Deletes a customer.
 
 **Headers:**
 ```
-INTERVIEW_KEY: superSecretToken-<your-name>
+interview-api-key: superSecretToken-<your-name>
 ```
 
 **URL Parameters:**
