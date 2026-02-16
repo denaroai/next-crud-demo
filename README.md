@@ -55,7 +55,7 @@ Retrieves all customers for the authenticated user.
 
 **Headers:**
 ```
-interview-api-key: superSecretToken-<your-name>
+INTERVIEW_KEY: superSecretToken-<your-name>
 ```
 
 **Response:**
