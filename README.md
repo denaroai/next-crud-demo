@@ -79,7 +79,7 @@ Creates a new customer.
 
 **Headers:**
 ```
-interview-api-key: superSecretToken-<your-name>
+INTERVIEW_KEY: superSecretToken-<your-name>
 ```
 
 **Request Body:**
@@ -152,7 +152,7 @@ Deletes a customer.
 
 **Headers:**
 ```
-interview-api-key: superSecretToken-<your-name>
+INTERVIEW_KEY: superSecretToken-<your-name>
 ```
 
 **URL Parameters:**
