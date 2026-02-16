@@ -1,7 +1,7 @@
 
 ## 🚀 Quick Start
 
-You need to have node and git bash installed to run any of these commands: https://nodejs.org/en/download
+You need to have node and git bash installed to run any of these commands: https://nodejs.org/en/download, https://git-scm.com/install/windows
 
 ### 1. Clone the Repository
 
