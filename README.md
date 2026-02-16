@@ -3,6 +3,8 @@
 
 You need to have node and git bash installed to run any of these commands: https://nodejs.org/en/download, https://git-scm.com/install/windows
 
+Your goal is to implement CRUD operations Create Read Update Delete. So you can create customers, update their balance, balance age, and name. You can use AI. The end result should be a page where a user can interact with customer's data. 
+
 ### 1. Clone the Repository
 
 ```bash
